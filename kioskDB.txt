@@ -1,0 +1,11 @@
+    "products": [
+      { "id": 1, "pname": "감", "price": 3000, "info": "감이다"},
+      { "id": 2, "pname": "배", "price": 4000, "info": "배다"},
+      { "id": 3, "pname": "사과", "price": 5000, "info": "사과다"},
+      { "id": 4, "pname": "포도", "price": 6000, "info": "포도다"},
+      { "id": 5, "pname": "오렌지", "price": 7000, "info": "오렌지다"},
+      { "id": 6, "pname": "귤", "price": 8000, "info": "귤이다"},
+      { "id": 7, "pname": "수박", "price": 9000, "info": "수박이다"},
+      { "id": 8, "pname": "석류", "price": 10000, "info": "석류다"},
+      { "id": 9, "pname": "무화과", "price": 11000, "info": "무화과다"}
+    ]
